@@ -15,6 +15,10 @@ hero:
       link: /glossary
 
 features:
-  - title: Web Scrape
-    details: What is web scrape and what it is used for
+  - title: Web Scrape Introduction
+    details: Fundamental, methods and what is web scrape and used for
+  - title: Exercise
+    details: Real world example of web scraping case study with python and JavaScript
+  - title: Under The Hood
+    details: Web scraping library and create your own simple web scraping library!
 ---
