@@ -354,7 +354,7 @@ webscraper.exe
 
 ## Kesimpulan
 
-Membuat web scraper dengan C memberikan pemahaman mendalam tentang protokol HTTP dan parsing HTML. Meskipun implementasi ini masih dasar, ini bisa menjadi fondasi untuk membuat tools web scraping yang lebih canggih. Selalu ingat untuk menghormati aturan penggunaan website dan file `robots.txt` saat melakukan scraping.
+Membuat web scraper dengan C memberikan pemahaman mendalam tentang protokol HTTP dan parsing HTML. Meskipun implementasi ini masih dasar, ini bisa menjadi fondasi untuk membuat tools web scraping yang lebih canggih. Selalu ingat untuk jangan membebani server, menghormati aturan penggunaan website, dan file `robots.txt` saat melakukan scraping.
 
 ## Penutup
 

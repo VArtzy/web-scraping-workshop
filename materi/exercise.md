@@ -1,23 +1,5 @@
 # Latihan
 
-Python adalah salah satu bahasa pemrograman populer yang digunakan di berbagai bidang, seperti machine learning, data science, web development, dan system administration. Python juga sering digunakan untuk membuat sistem atau program automation, seperti web scraper.
-
-sedangkan **JavaScript** adalah bahasa populer untuk web scraping, terutama di website dinamis. Dengan tools seperti **Puppeteer**, JavaScript memungkinkan pengambilan data otomatis, termasuk interaksi seperti mengisi form atau mengeklik tombol. Cocok untuk analisis data, monitoring harga, atau pengumpulan informasi.
-
-## Apa Itu Automation?
-
-Automation adalah proses otomatisasi yang dapat menyelesaikan tugas-tugas repetitif dengan efisien. Dalam dunia IT, automation sangat penting untuk meningkatkan produktivitas dan efisiensi. Salah satu bentuk automation yang populer adalah **web scraping**.
-
-## Apa Itu Web Scraping?
-
-Web scraping adalah teknik pengambilan data dari sebuah website secara otomatis. Teknik ini berguna untuk banyak hal, seperti pengumpulan informasi, analisis pasar, penelitian akademis, monitoring media sosial, dan penegakan hukum. Web scraping juga sering digunakan oleh data scientist untuk analisis sentimen, prediksi saham, dan pemantauan persaingan bisnis.
-
-Nah, itulah fungsinya automation. Intinya, automation adalah proses otomatisasi yang bisa menyelesaikan tugas-tugas repetitif dengan efisien. Kita nggak perlu lagi melakukan suatu hal secara manual.
-
-### Contoh Kasus Web Scraping
-
-Misalkan Anda seorang pengusaha yang ingin memantau harga produk pesaing di beberapa situs e-commerce. Daripada mengunjungi setiap website secara manual, Anda bisa menggunakan web scraping untuk mengumpulkan data harga produk secara otomatis. Data tersebut kemudian dapat digunakan untuk analisis tren harga dan menentukan strategi penetapan harga.
-
 ## Implementasi Web Scraper dengan Python
 
 Kita akan membuat program automation sederhana menggunakan Python untuk melakukan web scraping. Program ini akan mengumpulkan informasi tentang kelas-kelas yang ada di Dicoding, seperti nama kelas, jam belajar, rating, level, deskripsi, jumlah modul, dan total siswa terdaftar.
